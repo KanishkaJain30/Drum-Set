@@ -2,4 +2,4 @@
 
 
 Drum-Set using Vanilla JavaScript
-Check the site here :-  [editor on GitHub](https://screen-drum.netlify.app/)
+Link to the hosted website :-  [Click here](https://screen-drum.netlify.app/)
